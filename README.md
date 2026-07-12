@@ -125,5 +125,3 @@ Version 2 refactors the pipeline into a modular architecture following better so
 - NewsAPI
 - AWS EC2
 - Amazon S3
-- Boto3
-- Git & GitHub
