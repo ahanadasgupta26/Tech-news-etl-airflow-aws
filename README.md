@@ -12,7 +12,7 @@ An end-to-end Data Engineering project that extracts technology news from NewsAP
 
 ---
 
-# 📁 Version 1 – Basic ETL Pipeline
+##  Version 1 – Basic ETL Pipeline
 
 ### Overview
 
@@ -45,7 +45,7 @@ Version 1 demonstrates the core ETL workflow in a simple and easy-to-understand 
           Upload to Amazon S3
 ```
 ---
-# 📁 Version 2 – Modular ETL Pipeline
+##  Version 2 – Modular ETL Pipeline
 
 ### Overview
 
@@ -102,7 +102,7 @@ Version 2 refactors the pipeline into a modular architecture following better so
 ```
 ---
 
-# 🚀 Evolution from Version 1 to Version 2
+##  Evolution from Version 1 to Version 2
 
 | Feature           | Version 1 | Version 2 |
 |-------------------|-----------|-----------|
