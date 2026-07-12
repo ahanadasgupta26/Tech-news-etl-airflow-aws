@@ -54,9 +54,8 @@ Version 2 refactors the pipeline into a modular architecture following better so
 - Separate modules for:
   - Data Extraction
   - Data Transformation
+  - Data Combining
   - Data Loading
-  - Data Conversion
-  - Utility functions
 - Dedicated Airflow DAG
 - Cleaner project structure
 - Easier debugging and maintenance
