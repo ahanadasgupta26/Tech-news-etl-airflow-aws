@@ -2,8 +2,6 @@
 
 An end-to-end Data Engineering project that extracts technology news from NewsAPI, transforms it using Python and Pandas, and stores the processed data in Amazon S3. The project is orchestrated using Apache Airflow and demonstrates how an ETL pipeline can evolve from a simple implementation to a modular, production-ready architecture.
 
----
-
 
 |  Version      | Highlights |
 |---------------|------------|
