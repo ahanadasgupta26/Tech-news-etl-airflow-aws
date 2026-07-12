@@ -25,7 +25,7 @@ Version 1 demonstrates the core ETL workflow in a simple and easy-to-understand 
 - Uploads the processed CSV to Amazon S3
 - Ideal for learning the basics of ETL development
 
-  ### Workflow
+### Workflow
 ```
                 NewsAPI
                    │
@@ -68,9 +68,6 @@ Version 2 refactors the pipeline into a modular architecture following better so
 - Data Science
 - Machine Learning
 - Cloud Computing
-- Software Development
-- DevOps
-- Other technology-related topics
 
 ### Workflow
 ```
