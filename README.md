@@ -115,7 +115,7 @@ Version 2 refactors the pipeline into a modular architecture following better so
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Apache Airflow
